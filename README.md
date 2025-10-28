@@ -25,10 +25,10 @@ A modern, responsive portfolio website built with React, TypeScript, and Vite, f
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/shawonorib/shawon-portfolio.git
 
 # Navigate to project directory
-cd portfolio-website
+cd shawon-portfolio
 
 # Install dependencies
 npm install
@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [your@email.com](mailto:your@email.com)
+Your Name - [shawonorib@email.com](mailto:shawonorib@email.com)
 
 ## 🙏 Acknowledgments
 
@@ -213,4 +213,4 @@ Your Name - [your@email.com](mailto:your@email.com)
 
 ---
 
-Made with ❤️ using React, TypeScript, and Vite
+Built with care using React, TypeScript, and Vite
