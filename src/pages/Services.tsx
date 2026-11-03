@@ -14,7 +14,7 @@ const Services = () => {
       icon: <Layout size={32} />,
       title: "Frontend Development",
       description: "Creating responsive, modern user interfaces with the latest frontend technologies. I build fast, accessible, and beautiful web applications that provide exceptional user experiences across all devices.",
-      image: "/lovable-uploads/708f9e32-840d-46a4-aaa4-75ad2689e16f.png",
+      image: "/doc-uploads/frontend-development.png",
       features: [
         "React & TypeScript",
         "Tailwind CSS & Modern Styling",
@@ -29,7 +29,7 @@ const Services = () => {
       icon: <Database size={32} />,
       title: "Backend Development",
       description: "Building scalable server-side solutions with robust APIs and efficient database architecture. I create backends that are secure, performant, and maintainable.",
-      image: "/lovable-uploads/becfc2e3-b59f-4f86-afca-b9f6fc7b7c14.png",
+      image: "/doc-uploads/backend-development.png",
       features: [
         "Node.js & Express",
         "RESTful & GraphQL APIs",
@@ -44,7 +44,7 @@ const Services = () => {
       icon: <Layers size={32} />,
       title: "Full-Stack Solutions",
       description: "End-to-end application development from concept to deployment. I handle both frontend and backend, ensuring seamless integration and optimal performance throughout the entire stack.",
-      image: "/lovable-uploads/03e83f18-76a1-4349-a197-dbde03a93343.png",
+      image: "/doc-uploads/full-stack-development.png",
       features: [
         "Complete App Architecture",
         "Frontend + Backend Integration",

@@ -16,7 +16,7 @@ const References = () => {
       image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80",
       technologies: ["React", "Node.js", "Stripe", "Supabase"],
       link: "#",
-      github: "#"
+      github: "https://github.com/shawonorib/Maison_e-commerce-platform"
     },
     {
       title: "SaaS Dashboard",
@@ -31,10 +31,10 @@ const References = () => {
       title: "Task Management App",
       category: "Full-Stack",
       description: "Collaborative task management with real-time updates and team features.",
-      image: "/lovable-uploads/48e75083-18aa-4df9-bc91-8515485aa465.png",
-      technologies: ["React", "Supabase", "React Query", "Tailwind"],
+      image: "/doc-uploads/Task-Management-App.png",
+      technologies: ["TypeScript", "Javascript", "CSS", "Tailwind"],
       link: "#",
-      github: "#"
+      github: "https://github.com/shawonorib/flowboard-planner"
     },
     {
       title: "Portfolio Website",

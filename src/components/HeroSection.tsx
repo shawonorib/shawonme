@@ -49,7 +49,7 @@ const HeroSection = () => {
             <div className="flex items-center mb-4">
               <div className="bg-green-500/20 text-green-400 rounded-full px-4 py-1 text-sm font-medium inline-flex items-center">
                 <Sparkles className="h-3.5 w-3.5 mr-1" />
-                Full-Stack Web Developer
+                Web Developer
               </div>
             </div>
             
@@ -58,8 +58,7 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-xl text-gray-300 mb-8">
-              Full-stack developer specializing in modern web applications. 
-              From responsive frontends to scalable backends, I craft solutions that bring ideas to life.
+              Web Developer specializing in modern web applications and AI-driven solutions. From responsive frontends to scalable backends and intelligent model integrations, I craft high-performance systems that bring ambitious ideas to life.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4">

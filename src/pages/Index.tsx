@@ -15,21 +15,21 @@ const Index = () => {
       title: "Frontend Development",
       description: "Building responsive, modern user interfaces with React, TypeScript, and cutting-edge frameworks.",
       icon: <Layout size={24} />,
-      imageSrc: "/lovable-uploads/708f9e32-840d-46a4-aaa4-75ad2689e16f.png",
+      imageSrc: "/doc-uploads/frontend-development.png",
       link: "/skills#frontend"
     },
     {
       title: "Backend Development",
       description: "Scalable server-side solutions with Node.js, APIs, and database architecture.",
       icon: <Database size={24} />,
-      imageSrc: "/lovable-uploads/becfc2e3-b59f-4f86-afca-b9f6fc7b7c14.png",
+      imageSrc: "/doc-uploads/backend-development.png",
       link: "/skills#backend"
     },
     {
       title: "Full-Stack Solutions",
       description: "End-to-end application development from concept to deployment.",
       icon: <Layers size={24} />,
-      imageSrc: "/lovable-uploads/03e83f18-76a1-4349-a197-dbde03a93343.png",
+      imageSrc: "/doc-uploads/full-stack-development.png",
       link: "/skills#fullstack"
     }
   ];

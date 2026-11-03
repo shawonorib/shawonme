@@ -14,7 +14,7 @@ const Footer = () => {
               Shawon
             </h2>
             <p className="text-gray-300 max-w-md">
-              Full-stack web developer crafting modern, scalable applications. Turning ideas into exceptional digital experiences.
+              Web developer crafting modern, scalable applications. Turning ideas into exceptional digital experiences.
             </p>
             <div className="flex space-x-4 pt-2">
               <a 
