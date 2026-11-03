@@ -95,7 +95,7 @@ const Resume = () => {
           <h2 className="text-3xl font-bold text-white mb-6">Professional Summary</h2>
           <div className="glassmorphism p-8">
             <p className="text-gray-300 leading-relaxed">
-              Full-stack web developer with expertise in modern web technologies including React, TypeScript, Node.js, and database management. 
+              Web developer with expertise in modern web technologies including React, TypeScript, Node.js, and database management. 
               Passionate about creating scalable, user-friendly applications with clean, maintainable code. 
               Strong problem-solving skills and commitment to delivering high-quality solutions.  
             </p>
@@ -124,7 +124,7 @@ const Resume = () => {
               <ul className="space-y-2 text-gray-300">
                 <li className="flex items-start">
                   <span className="text-psyco-green-DEFAULT mr-2">•</span>
-                  <span>Developed and maintained web applications using moder technologies</span>
+                  <span>Developed and maintained web applications using modern technologies</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-psyco-green-DEFAULT mr-2">•</span>
